@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,yinfans.me
 DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,aikanbot.com
 DOMAIN-SUFFIX,test-ipv6.com
+PROCESS-NAME,/Applications/SenPlayer.app/Contents/MacOS/SenPlayer
