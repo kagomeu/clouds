@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,aikanbot.com
 DOMAIN-SUFFIX,test-ipv6.com
 PROCESS-NAME,/Applications/SenPlayer.app/Contents/MacOS/SenPlayer
+
+DOMAIN-SUFFIX,macked.app
+DOMAIN-SUFFIX,deepseek.com
