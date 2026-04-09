@@ -15,7 +15,15 @@ DOMAIN-SUFFIX,yinfans.me
 DOMAIN-SUFFIX,shuyz.com
 DOMAIN-SUFFIX,aikanbot.com
 DOMAIN-SUFFIX,test-ipv6.com
-PROCESS-NAME,/Applications/SenPlayer.app/Contents/MacOS/SenPlayer
-
 DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,deepseek.com
+
+PROCESS-NAME,"QQ Helper"
+PROCESS-NAME,QQ
+PROCESS-NAME,"哔哩哔哩 Helper"
+PROCESS-NAME,dtv
+PROCESS-NAME,"WeChatAppEx Helper"
+PROCESS-NAME,"biliLive-tools Helper"
+DOMAIN-SUFFIX,readfrog.app
+DOMAIN,github.boki.moe
+DOMAIN-SUFFIX,cup.com.cn

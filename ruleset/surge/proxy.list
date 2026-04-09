@@ -15,3 +15,13 @@ DOMAIN-SUFFIX,bigzlabs.com
 DOMAIN-SUFFIX,asmrgay.com
 DOMAIN-SUFFIX,christin3.com
 DOMAIN-SUFFIX,dc-telemetry.net
+
+IP-CIDR,5.28.192.0/18,no-resolve
+DOMAIN-SUFFIX,calibre-ebook.com
+DOMAIN-SUFFIX,kwvprfcr.xyz
+DOMAIN-SUFFIX,tdlbolh.com
+DOMAIN-SUFFIX,starship.rs
+DOMAIN-SUFFIX,madou-club.com
+DOMAIN-SUFFIX,madou-tv.cn
+IP-CIDR,38.59.246.21/32,no-resolve
+DOMAIN-SUFFIX,egernapp.com
